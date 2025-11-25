@@ -1,6 +1,6 @@
 # plivo_assignment
 
-Here is the complete content for your `README.md` file in a single code block.
+The `Plivo_assignment_Shivansh.ipynb` file contains all the code along with metrics calculated.
 
 # PII Entity Recognition for Noisy STT Transcripts
 
